@@ -25,3 +25,5 @@ Open terminal in yolov5 and execute:
 ```
 python detect.py --weights aslr.pt --source 0
 ```
+
+![Output Preview](./assets/output.jpg)
