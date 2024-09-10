@@ -1,1 +1,1 @@
-# American-Sign-Language-Recognizer
+# TODO: Prepare readme
