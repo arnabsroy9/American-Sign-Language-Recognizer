@@ -1,5 +1,5 @@
 # American Sign Language Recognizer (ASLR)
-isearch is for searching images that are similar or nearly similar to a query image or text. We use CLIP-japanese model, which we have quantized for efficiency. Our optimization has made it 30 times faster than the CLIP-japanese model. To store and manage the image embeddings, we use Qdrant as vector database.
+American Sign Language Recognizer is a system for sign language recognition. 
 
 ## Installation 
 
